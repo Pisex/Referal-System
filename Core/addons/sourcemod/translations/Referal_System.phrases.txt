@@ -1,0 +1,227 @@
+"Phrases"
+{
+	"DontCreateRef"
+	{
+		"#format"	"{1:s}"
+		"en"		"{lightred}[RS] {grey}This referral code already belongs to {1}."
+		"ru"		"{lightred}[RS] {grey}Данный реферальный код уже принадлежит {1}."
+	}
+	"GivenBonus"
+	{
+		"#format"	"{1:i},{2:N}"
+		"en"		"{lightred}[RS] {grey}You received {1} b. for {2}."
+		"ru"		"{lightred}[RS] {grey}Вы получили {1} б. за {2}."
+	}
+	"TransferMeCommision"
+	{
+		"#format"	"{1:N},{2:i},{3:i}"
+		"en"		"{lightred}[RS] {grey}You transferlightred player {1} {2} b. (including commission {3})"
+		"ru"		"{lightred}[RS] {grey}Вы перевели игроку {1} {2} б. (с учетом комисии {3})."
+	}
+	"TransferYouCommision"
+	{
+		"#format"	"{1:N},{2:i},{3:i}"
+		"en"		"{lightred}[RS] {grey}Player {1} transferlightred you {2} b. (including commission {3})."
+		"ru"		"{lightred}[RS] {grey}Игрок {1} перевёл вам {2} б. (с учётом комиссии {3})."
+	}
+	"TransferMeNotCommision"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"{lightred}[RS] {grey}You transferlightred to a player {1} {2} b."
+		"ru"		"{lightred}[RS] {grey}Вы перевели игроку {1} {2} б."
+	}
+	"TransferYouNotCommision"
+	{
+		"#format"	"{1:N},{2:i}"
+		"en"		"{lightred}[RS] {grey}Player {1} transferlightred you {2} b."
+		"ru"		"{lightred}[RS] {grey}Игрок {1} перевёл вам {2} б."
+	}
+	"YouAlreadyRefCode"
+	{
+		"en"		"{lightred}[RS] {grey}You already have a referral code."
+		"ru"		"{lightred}[RS] {grey}У вас уже существует реферальный код."
+	}
+	"EnterRefCodeCreate"
+	{
+		"en"		"{lightred}[RS] {grey}Enter the desilightred referral code in XXXX-XXXX format."
+		"ru"		"{lightred}[RS] {grey}Введите желаемый реферальный код в формате XXXX-XXXX."
+	}
+	"DontEnterRefCodeCreate"
+	{
+		"en"		"{lightred}[RS] {grey}You didn't win back the allotted time to generate a referral code."
+		"ru"		"{lightred}[RS] {grey}Вы не отыграли положенное время для создания реферального кода."
+	}
+	"YouDontRefCode"
+	{
+		"en"		"{lightred}[RS] {grey}You don't have a referral code."
+		"ru"		"{lightred}[RS] {grey}У вас нету реферального кода."
+	}
+	"YouAlreadyEntered"
+	{
+		"en"		"{lightred}[RS] {grey}You have already entelightred a referral code."
+		"ru"		"{lightred}[RS] {grey}Вы уже вводили реферальный код."
+	}
+	"EnterRefCode"
+	{
+		"en"		"{lightred}[RS] {grey}Enter your referral code in XXXX-XXXX format."
+		"ru"		"{lightred}[RS] {grey}Введите реферальный код в фомате XXXX-XXXX."
+	}
+	"TimedOut"
+	{
+		"en"		"{lightred}[RS] {grey}Referral code timed out."
+		"ru"		"{lightred}[RS] {grey}Время ввода реферального кода истекло."
+	}
+	"YouDidntPlayAllottedTime"
+	{
+		"en"		"{lightred}[RS] {grey}You didnt play allotted time."
+		"ru"		"{lightred}[RS] {grey}Вы не отыграли положенное время для ввода кода."
+	}
+	"NotMatchTheFormat"
+	{
+		"en"		"{lightred}[RS] {grey}Your code does not match the format."
+		"ru"		"{lightred}[RS] {grey}Ваш код не соответствует формату."
+	}
+	"NotTransferBonus"
+	{
+		"en"		"{lightred}[RS] {grey}Not enough bonuses to transfer."
+		"ru"		"{lightred}[RS] {grey}Недостаточно бонусов для передачи."
+	}
+	"CreatedRefCode"
+	{
+		"en"		"{lightred}[RS] {grey}You have successfully created a referral code."
+		"ru"		"{lightred}[RS] {grey}Вы успешно создали реферальный код."
+	}
+	"DontPlayerFound"
+	{
+		"en"		"{lightred}[RS] {grey}No matching players found."
+		"ru"		"{lightred}[RS] {grey}Не найдено подходящих игроков."
+	}
+	"ReferalNoPlayer"
+	{
+		"en"		"{lightred}[RS] {grey}You don't have any referral yet."
+		"ru"		"{lightred}[RS] {grey}У вас ещё нету ни одного реферала."
+	}
+	"EnterBonusTransfer"
+	{
+		"en"		"{lightred}[RS] {grey}Enter the number of bonuses to transfer."
+		"ru"		"{lightred}[RS] {grey}Введите количество бонусов для перевода."
+	}
+	"PlayerDisconnectTransfer"
+	{
+		"en"		"{lightred}[RS] {grey}The player has left the server."
+		"ru"		"{lightred}[RS] {grey}Игрок вышел с сервера."
+	}
+	"NoFoundRefCode"
+	{
+		"en"		"{lightred}[RS] {grey}The referral code you entelightred does not exist."
+		"ru"		"{lightred}[RS] {grey}Введенного вами реферального кода не существует."
+	}
+	"SuccessfullyFoundRefCode"
+	{
+		"en"		"{lightred}[RS] {grey}You have successfully activated the referral code."
+		"ru"		"{lightred}[RS] {grey}Вы успешно активировали реферальный код."
+	}
+	"YouRefCode"
+	{
+		"en"		"{lightred}[RS] {grey}You cannot activate your own referral code."
+		"ru"		"{lightred}[RS] {grey}Вы не можете активировать свой же реферальный код."
+	}
+	"TitleInvited"
+	{
+		"en"		"Вы отыграли положенное время с реф. кодом\nВыберите желаемый бонус"
+		"ru"		"You have played the preset time with the ref code\nSelect your desired bonus."
+	}
+	"TitleInviter"
+	{
+		"#format"	"{1:i}"
+		"en"		"Bonus Shop \nBalance: {1} b."
+		"ru"		"Магазин Бонусов\nБаланс: {1} б."
+	}
+	"InputMenu"
+	{
+		"en"		"Enter referral code"
+		"ru"		"Ввести реферальный код"
+	}
+	"CreateRefMenu"
+	{
+		"en"		"Create a referral code"
+		"ru"		"Создать реферальный код"
+	}
+	"UprRefMenu"
+	{
+		"en"		"Referral code menu"
+		"ru"		"Меню реферального кода"
+	}
+	"TopMenu"
+	{
+		"en"		"Top invitees"
+		"ru"		"Топ пригласивших"
+	}
+	"OpenTopMenu"
+	{
+		"en"		"Top invitees\n "
+		"ru"		"Топ пригласивших\n "
+	}
+	"Back"
+	{
+		"en"		"Back"
+		"ru"		"Назад"
+	}
+	"Exit"
+	{
+		"en"		"Exit"
+		"ru"		"Выход"
+	}
+	"MenuRefCodeUpr"
+	{
+		"#format"	"{1:s},{2:i}"
+		"en"		"Referal System\nMy code: {1}\nBalance: {2} b."
+		"ru"		"Referal System\nМой код: {1}\nБаланс: {2} б."
+	}
+	"ShopBonus"
+	{
+		"en"		"Bonus Store"
+		"ru"		"Магазин бонусов"
+	}
+	"transfer"
+	{
+		"en"		"Transfer Bonus"
+		"ru"		"Передать бонусы"
+	}
+	"transfer_off"
+	{
+		"en"		"Transfer Bonus [Off]"
+		"ru"		"Передать бонусы [Выключено]"
+	}
+	"myreferals"
+	{
+		"en"		"My referrals"
+		"ru"		"Мои рефералы"
+	}
+	"SelectPlayer"
+	{
+		"en"		"Select the Player:"
+		"ru"		"Выберите Игрока:"
+	}
+	"MyReferalsMenu"
+	{
+		"en"		"My referrals:"
+		"ru"		"Мои рефералы:"
+	}
+	"SelectRef"
+	{
+		"#format"	"{1:s}"
+		"en"		"Referal System\n \nHave you entered a referral code\nPlayer {1}\nContinue?"
+		"ru"		"Referal System\n \nВы ввели реферальный код\nИгрока {1}\nПродолжить?\n"
+	}
+	"yes"
+	{
+		"en"		"Yes"
+		"ru"		"Да"
+	}
+	"no"
+	{
+		"en"		"No"
+		"ru"		"Нет"
+	}
+}
